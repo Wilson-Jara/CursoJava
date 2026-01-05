@@ -17,3 +17,4 @@ public class Suma_producto {
         teclado.close();
     }
 }
+//solo estoy probando y aprendiendo mas de git y github
