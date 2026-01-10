@@ -15,7 +15,7 @@ public class Problema1 {
             System.out.print("la diferencia entre los 2 numeros es: " + (num1-num2));
         } else {
             System.out.println("El producto entre los 2 numeros es: " + (num1*num2));
-            System.out.println("La Divicion entre los 2 numeros es: " + (num1/num2));
+            System.out.println("La Division entre los 2 numeros es: " + (num1/num2));
         }
     }
 }

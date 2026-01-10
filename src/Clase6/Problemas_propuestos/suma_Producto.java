@@ -4,7 +4,7 @@ import java.util.Scanner;
 // calcular e informar la suma de los dos primeros y el producto del tercero y el cuarto.
 public class suma_Producto {
     public static void  main(String[] as){
-        Scanner teclado= new Scanner(System.in);
+        Scanner teclado = new Scanner(System.in);
         int num1,num2,num3,num4,suma,producto;
         System.out.print("Ingrese el primer numero: ");
         num1 = teclado.nextInt();
