@@ -13,7 +13,6 @@ public class EstructurasCondicionalesAnidadas {
         nota2 = teclado.nextFloat();
         System.out.print("ingrese la tercera nota: ");
         nota3 = teclado.nextFloat();
-
         float promedio= (nota1+nota2+nota3) / 3;
         System.out.println("Su promedio es: " + promedio);
         if (promedio>=7) {
