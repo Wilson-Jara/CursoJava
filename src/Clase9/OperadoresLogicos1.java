@@ -2,7 +2,7 @@ package Clase9;
 
 import java.util.Scanner;
 
-public class OperadoresLogicos {
+public class OperadoresLogicos1 {
     public static void main (String[]ar){
         Scanner teclado = new Scanner(System.in);
 
