@@ -1,3 +1,5 @@
+//Se ingresan un conjunto de n alturas de personas por teclado. Mostrar la altura promedio de las personas.
+
 package Clase10.ProblemasPropuestos;
 
 import java.util.Scanner;

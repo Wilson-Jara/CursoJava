@@ -1,3 +1,7 @@
+//Desarrollar un programa que permita cargar n números enteros y luego nos informe cuántos valores fueron pares y
+//cuántos impares. Emplear el operador % en la condición de la estructura condicional:
+//	if (valor%2==0)         //Si el if da verdadero luego es par.
+
 package Clase10.ProblemasPropuestos;
 
 import java.util.Scanner;
